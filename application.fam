@@ -1,0 +1,10 @@
+App(
+    appid="uxn",
+    name="Uxn",
+    apptype=FlipperAppType.EXTERNAL,
+    entry_point="uxn_app",
+    sources=["uxn.c", "uxn/uxn.c", "uxn/devices/screen.c"],
+    fap_icon_assets="icons",
+    fap_icon="icons/uxn.png",
+    fap_category="Tools",
+)

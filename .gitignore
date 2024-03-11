@@ -1,0 +1,4 @@
+.clangd
+.vscode/
+demo/
+dist/
