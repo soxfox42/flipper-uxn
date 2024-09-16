@@ -2,7 +2,7 @@
 
 This repo contains a port of the [SDL Uxn emulator](https://git.sr.ht/~rabbits/uxn) to the [Flipper Zero](https://flipperzero.one/).
 
-I don't intend to develop this further, but feel free to fork it and develop it further.
+I don't intend to develop this further, but anyone should feel free to fork the repo and continue it themselves.
 
 ## Supported Functionality
 
